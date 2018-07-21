@@ -1,0 +1,7 @@
+hehehhe
+0,0,grondle-city-center
+1,0,eastern-grondle
+2,0,grondle-eastern-farmland
+0,1,southern-grondle
+1,1,grondle-prison
+2,1,grondle-eastern-defense-post
