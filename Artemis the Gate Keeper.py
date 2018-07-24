@@ -37,7 +37,7 @@ async def joinmessage(ctx): #Creates command joinmessage
 
 @client.command(pass_context=True)
 async def enter(ctx):
-        my_file = Path("D:/Python/MMO BOTS/Data/Member Data/"+str(ctx.message.author.id)+".txt") #Sets user file path as a variable
+        my_file = Path("./Data/Member Data/"+str(ctx.message.author.id)+".txt") #Sets user file path as a variable
         if not my_file.is_file(): #Checks to make sure the user does not have a file
 
                 today = datetime.date.today() #Gets the current date
