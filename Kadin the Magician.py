@@ -69,4 +69,4 @@ async def quests(ctx):
 
 
 
-client.run('NDY4MjE2MTQ3NDIzMDAyNjM2.Di17yQ.YQlH_l1CcSMHm1bIk4jEVd4DhSA') #DAB
+client.run('') #DAB
