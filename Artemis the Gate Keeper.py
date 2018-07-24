@@ -58,4 +58,4 @@ async def enter(ctx):
 
 
 
-client.run('NDY3NTMzODYwMjYzOTUyMzg0.DisAXA.BWCgBFBLsOAw5EOU0Y5YHE_y5gc')
+client.run('')
