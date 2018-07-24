@@ -137,5 +137,5 @@ async def move(ctx, direction): #Creates a move command and passes the context a
 
 
 
-client.run("NDY3Njg1MTQxODA1MDA2ODU4.DiuNsw.wLfVk7L81ffmzsJ3uXOkrMoPEkI") #DAB
+client.run("") #DAB
 
