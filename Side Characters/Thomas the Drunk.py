@@ -112,4 +112,4 @@ async def on_message(message): #Triggerss whenever a message is sent
                         
 
                                 
-client.run('NDY3OTYxMTk0MTc1NzkxMTE0.DizUyw.U2fRHwt0AgWpsgbsJqiFBSRzLxg') #Dab
+client.run('') #Dab
